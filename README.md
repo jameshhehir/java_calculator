@@ -19,6 +19,6 @@ This is a basic calculator that reads in two numbers and performs a specified ar
 * Java
 
 ## Setup
-Clone this repo and run the following commands in the terminal.
+Clone this repo and run the following commands in the terminal:
 `javac calculator.java`
 `java calcualtor`
